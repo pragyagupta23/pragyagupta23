@@ -21,8 +21,11 @@ I work primarily with **Java, Spring Boot, MySQL, and MongoDB**, with a strong g
 ### 🛠️ Tech Stack
 
 **Languages:** Java · JavaScript · HTML · CSS
+
 **Backend:** Spring Boot · Hibernate · JPA · REST APIs
+
 **Databases:** MySQL · MongoDB
+
 **Tools:** Git & GitHub · Postman · Maven · IntelliJ IDEA · VS Code
 
 ---
@@ -39,7 +42,7 @@ Employee Management REST API — Spring Boot, MySQL & JPA, 20+ Postman-validated
 
 ### 📫 Reach Me
 
-[LinkedIn](https://linkedin.com/in/guptapragyaa) · pragyapm2002@gmail.com
+[LinkedIn](https://linkedin.com/in/guptapragyaa) · pragyagupta020@gmail.com
 
 ---
 
