@@ -4,6 +4,10 @@ Software Developer focused on building clean, scalable REST APIs.
 
 I work primarily with **Java, Spring Boot, MySQL, and MongoDB**, with a strong grip on OOP, data structures, and layered application design. I like writing code that's not just functional, but easy to read, test, and extend.
 
+Email: pragyagupta020@gmail.com
+
+LinkedIn: [Pragya Gupta](https://linkedin.com/in/guptapragyaa)
+
 ---
 
 ### 🔭 Currently
@@ -39,11 +43,3 @@ RESTful Journal Management API — Spring Boot & MongoDB, layered architecture, 
 Employee Management REST API — Spring Boot, MySQL & JPA, 20+ Postman-validated endpoints.
 
 ---
-
-### 📫 Reach Me
-
-[LinkedIn](https://linkedin.com/in/guptapragyaa) · pragyagupta020@gmail.com
-
----
-
-<sub>⭐️ from [pragyagupta23](https://github.com/pragyagupta23)</sub>
